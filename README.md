@@ -10,8 +10,12 @@ The Codes for every challenge was written to show every sample selected from the
 It was created a bar, bubble and guage chart as shown in the figures below.
 * Horizontal Bar chart
 
-![This is an image](
+![This is an image]()
 
 * Buble Chart
-* 
+ 
 ![This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Bacteria%20Cultures%20Per%20Sample.PNG)
+
+* Gauge Chart
+
+![This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Gauge%20chart.PNG)
