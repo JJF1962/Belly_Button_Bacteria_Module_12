@@ -10,7 +10,7 @@ The Codes for every challenge was written to show every sample selected from the
 It was created a bar, bubble and guage chart as shown in the figures below.
 * Horizontal Bar chart
 
-![This is an image]()
+![This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Top%2010%20Bacterias%20Culture%20Found%20Delivery%201.PNG)
 
 * Buble Chart
  
@@ -19,3 +19,8 @@ It was created a bar, bubble and guage chart as shown in the figures below.
 * Gauge Chart
 
 ![This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Gauge%20chart.PNG)
+
+All this coding allow to generate the web based dashboard as shown in the following Belly Button Biodeversity link: https://jjf1962.github.io/Belly_Button_Bacteria_Module_12/index.html
+
+# Summary and conclusion
+* To accomplish this challenge 12, it was learned and  used JavaScript, Plotly, D3.js, HTML, and CSS to create the mentioned web based dashboard, to provide the  visualization of JSON data used in this challenge. The data is public in the link provided previously and can be viewed by test ID number.
