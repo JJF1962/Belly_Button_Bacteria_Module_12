@@ -14,4 +14,4 @@ It was created a bar, bubble and guage chart as shown in the figures below.
 
 * Buble Chart
 * 
-! [This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Bacteria%20Cultures%20Per%20Sample.PNG)
+![This is an image](https://github.com/JJF1962/Belly_Button_Bacteria_Module_12/blob/main/Bacteria%20Cultures%20Per%20Sample.PNG)
